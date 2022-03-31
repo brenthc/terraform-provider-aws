@@ -43,7 +43,7 @@ The following arguments are supported:
 In addition to all arguments above, the following attributes are exported:
 
 * `id` - The ID of the Traffic Mirror target.
-* `tags_all` - A map of tags assigned to the resource, including those inherited from the provider [`default_tags` configuration block](/providers/hashicorp/aws/latest/docs#default_tags-configuration-block).
+* `tags_all` - A map of tags assigned to the resource, including those inherited from the provider [`default_tags` configuration block](/providers/hashicorp/aws/docs#default_tags-configuration-block).
 * `arn` - The ARN of the traffic mirror target.
 * `owner_id` - The ID of the AWS account that owns the traffic mirror target.
 
